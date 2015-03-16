@@ -1,0 +1,1 @@
+Boilerplate Flask app, with some default Grunt settings. Runt `./bootstrap.sh` to set up.
